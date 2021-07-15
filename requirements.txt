@@ -1,0 +1,15 @@
+click==7.1.2
+Flask==1.1.2
+Flask-Compress==1.9.0
+Flask-Migrate==2.5.2
+flask-ngrok==0.0.25
+Flask-Script==2.0.6
+Flask-SQLAlchemy==2.5.1
+gunicorn==20.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+psycopg2==2.9.1
+psycopg2-binary==2.9.1
+python-dotenv==0.18.0
+SQLAlchemy==1.4.18
+Werkzeug==1.0.1
